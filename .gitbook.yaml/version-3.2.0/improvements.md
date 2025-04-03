@@ -7,7 +7,10 @@
    1. Added a column-level filter (select from menu) for validation status in the Transport Management table.
    2. Verifying deployment permissions before importing via TOC.
 3. Build > Build Pipeline&#x20;
-   1. Added Created By and Created On columns in the build pipeline table.
+   1.  Added Created By and Created On columns in the build pipeline table.\
+
+
+       <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 4. Release > Release Pipeline
    1.  Added a Notify option to notify users in the gCTS switch task(On-Premise).\
 
