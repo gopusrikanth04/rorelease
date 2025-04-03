@@ -1,7 +1,10 @@
 # Improvements
 
 1. Dashboard
-   1. Added Pipeline Stage and Pipeline Status details to the Release Pipeline Cycles table on the dashboard.
+   1.  Added Pipeline Stage and Pipeline Status details to the Release Pipeline Cycles table on the dashboard.\
+
+
+       <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 2. Change Management > User Stories
    1. Added a column-level filter (select from menu) for User Story Type in the User Stories table.
    2. Added Modified By and Modified On columns in the User Stories table.

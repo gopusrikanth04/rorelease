@@ -9,7 +9,10 @@
 3. Build > Build Pipeline&#x20;
    1. Added Created By and Created On columns in the build pipeline table.
 4. Release > Release Pipeline
-   1. Added a Notify option to notify users in the gCTS switch task(On-Premise).
+   1.  Added a Notify option to notify users in the gCTS switch task(On-Premise).\
+
+
+       <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 5. Release > Release Packages
    1. Added a Notify option to notify users in the wait for Promotion Task
    2. Now enabling the viewing of release history for the release pipeline.
