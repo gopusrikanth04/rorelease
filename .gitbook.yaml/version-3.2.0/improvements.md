@@ -7,7 +7,7 @@
 
     &#x20;                        &#x20;
 
-    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -18,19 +18,25 @@
 
     &#x20;      &#x20;
 
-    <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 2. Build > Build Pipeline&#x20;
    1.  Added Created By and Created On columns in the build pipeline table.\
 
 
        <figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
-3. Release > Release Pipeline
-   1.  Added a Notify option to notify users in the gCTS switch task(On-Premise).\
+3.  Release > Release Pipeline
+
+    1.  Added a Notify option to notify users in the gCTS switch task(On-Premise).\
 
 
-       <figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
-   2. Added a Notify option to notify users in the wait for Promotion Task
-   3. Now enabling the viewing of release history for the release pipeline.
+        <figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+    2. Added a Notify option to notify users in the wait for Promotion Task
+
+    &#x20;     &#x20;
+
+    1. Now enabling the viewing of release history for the release pipeline.
+
+    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 4.  Pipeline Activity
 
     1. Setting TOC log with the SAP TR ID and RO ID for whose TR is imported via TOC. In some cases, there will be only objects in TR without subtasks.
@@ -47,7 +53,7 @@
    2.  Enhanced navigation to corresponding User Story details, Transport details, and Artifact details(CPI, SAC, SDS).\
 
 
-       <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
    3. Added a search field to filter "My Tasks" efficiently.
    4. Added a column-level filter (select from menu) for Task Type in the My Tasks table.
    5.  Added a column-level filter (select from menu) for Task Source in the My Tasks table.\
