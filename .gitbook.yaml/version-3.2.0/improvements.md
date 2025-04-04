@@ -5,9 +5,9 @@
     1. &#x20;Added a column-level filter (select from menu) for validation status in the User Stories table.
     2. When user story sync is in progress, it should display a message.(Note)
 
-    &#x20;        &#x20;
+    &#x20;                        &#x20;
 
-&#x20;                            &#x20;
+    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -47,7 +47,7 @@
    2.  Enhanced navigation to corresponding User Story details, Transport details, and Artifact details(CPI, SAC, SDS).\
 
 
-       <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
    3. Added a search field to filter "My Tasks" efficiently.
    4. Added a column-level filter (select from menu) for Task Type in the My Tasks table.
    5.  Added a column-level filter (select from menu) for Task Source in the My Tasks table.\
