@@ -10,9 +10,12 @@
    \
    If the assigned person is unavailable, they can delegate the task to another user within the same project by selecting the project.   \
    Each project allows only one deputy to be assigned at a time.\
-   \
 
-
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+&#x20;       You can approve or reject the task in the My Tasks
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
