@@ -4,14 +4,23 @@
    1.  Added Pipeline Stage and Pipeline Status details to the Release Pipeline Cycles table on the dashboard.\
 
 
-       <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 2. Change Management > User Stories
    1. Added a column-level filter (select from menu) for User Story Type in the User Stories table.
-   2. Added Modified By and Modified On columns in the User Stories table.
-   3. Added ALM Integration and Sprint columns to the Sync History table.
+   2.  Added Modified By and Modified On columns in the User Stories table.\
+
+
+       <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+   3.  Added ALM Integration and Sprint columns to the Sync History table.\
+
+
+       <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 3. Build > Transport Management
    1. Added a column-level filter (selectable from the menu) for Transport Type, Status, and Last Imported System in the Transport Management.
-   2. Added Excel download functionality in Transport Management to export all transport details.
+   2.  Added Excel download functionality in Transport Management to export all transport details.\
+
+
+       <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
    3. In gCTS Transport Management, the file list is now displayed when clicking on a Commit ID in Commits for transport request.
    4. Added TOC request details in the Transport Management Import History.
 4. Build > API Management
