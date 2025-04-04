@@ -53,7 +53,12 @@
 
        <figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
    4. Added transport type details to On-Premise deployment logs for improved clarity and understanding.
-   5. Enhanced Integration Advisor Deploy Logs to display Consistency Check Logs and Import Logs, ensuring better visibility and traceability during deployments.
+   5.  Enhanced Integration Advisor Deploy Logs to display Consistency Check Logs and Import Logs, ensuring better visibility and traceability during deployments.\
+
+
+       <figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+
+       <figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 8. CPI Test Generator
    1.  Added the "Last Test Results" and "Test Runs" to the action button of Test Suite.\
 
