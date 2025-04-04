@@ -60,14 +60,28 @@
 
 
        <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
-6. Test Automation
-   1. Added validation before creating Test configuration.
+6.  Test Automation
+
+    1. Added validation before creating Test configuration.
+
+    &#x20;      &#x20;
+
+    <figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 7. ALM Integration
    1.  Added the disableComments option in ALM Integration to allow disabling of comments.\
 
 
        <figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
-8. Administration
-   1. Added validation before creating RO Agents, Callouts, and the Freeze Period in Administration.
-   2. Preventing project creation or switching if the module license has expired.
+8.  Administration
+
+    1. Added validation before creating RO Agents, Callouts, and the Freeze Period in Administration.
+    2. Preventing project creation or switching if the module license has expired.
+
+    &#x20;     &#x20;
+
+    <figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+
+    <figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+
+
 
