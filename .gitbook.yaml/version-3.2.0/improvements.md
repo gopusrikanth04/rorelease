@@ -34,11 +34,15 @@
 
     &#x20;     &#x20;
 
-    1.  Now enabling the viewing of release history for the release pipeline.\
+    <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+    c.  Now enabling the viewing of release history for the release pipeline.      &#x20;
+
+<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 
-        <figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
-4.  Pipeline Activity
+
+1.  Pipeline Activity
 
     1. Setting TOC log with the SAP TR ID and RO ID for whose TR is imported via TOC. In some cases, there will be only objects in TR without subtasks.
     2. CPI rollback status, to allow the same user story to promote if rollback is completed.&#x20;
@@ -48,7 +52,7 @@
     <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
     &#x20; **c**.    Updated deployment mail and modified the user story list data in user story task update
-5. My Tasks
+2. My Tasks
    1. Displaying user story attachments in task details.\
 
    2.  Enhanced navigation to corresponding User Story details, Transport details, and Artifact details(CPI, SAC, SDS).\
@@ -61,19 +65,19 @@
 
 
        <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
-6.  Test Automation
+3.  Test Automation
 
     1. Added validation before creating Test configuration.
 
     &#x20;      &#x20;
 
     <figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
-7. ALM Integration
+4. ALM Integration
    1.  Added the disableComments option in ALM Integration to allow disabling of comments.\
 
 
        <figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
-8.  Administration
+5.  Administration
 
     1. Added validation before creating RO Agents, Callouts, and the Freeze Period in Administration.
     2. Preventing project creation or switching if the module license has expired.
