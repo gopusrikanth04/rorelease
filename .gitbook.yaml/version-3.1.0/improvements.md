@@ -10,11 +10,11 @@
    2.  Added Modified By and Modified On columns in the User Stories table.\
 
 
-       <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
    3.  Added ALM Integration and Sprint columns to the Sync History table.\
 
 
-       <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 3. Build > Transport Management
    1. Added a column-level filter (selectable from the menu) for Transport Type, Status, and Last Imported System in the Transport Management.
    2.  Added Excel download functionality in Transport Management to export all transport details.\
