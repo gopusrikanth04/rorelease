@@ -34,9 +34,10 @@
 
     &#x20;     &#x20;
 
-    1. Now enabling the viewing of release history for the release pipeline.
+    1.  Now enabling the viewing of release history for the release pipeline.\
 
-    <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+        <figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 4.  Pipeline Activity
 
     1. Setting TOC log with the SAP TR ID and RO ID for whose TR is imported via TOC. In some cases, there will be only objects in TR without subtasks.
