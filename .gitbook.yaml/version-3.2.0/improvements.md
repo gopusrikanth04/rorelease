@@ -18,10 +18,16 @@
        <figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
    2. Added a Notify option to notify users in the wait for Promotion Task
    3. Now enabling the viewing of release history for the release pipeline.
-5. Pipeline Activity
-   1. Setting TOC log with the SAP TR ID and RO ID for whose TR is imported via TOC. In some cases, there will be only objects in TR without subtasks.
-   2. CPI rollback status, to allow the same user story to promote if rollback is completed.
-   3. Updated deployment mail and modified the user story list data in user story task update
+5.  Pipeline Activity
+
+    1. Setting TOC log with the SAP TR ID and RO ID for whose TR is imported via TOC. In some cases, there will be only objects in TR without subtasks.
+    2. CPI rollback status, to allow the same user story to promote if rollback is completed.&#x20;
+
+
+
+    <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+    &#x20; **c**.    Updated deployment mail and modified the user story list data in user story task update
 6. My Tasks
    1. Displaying user story attachments in task details.\
 
